@@ -1,0 +1,12 @@
+(version 1)
+
+################################################################################
+# HV and LV clearance, inspired by IEC standards.
+
+(rule "HV clearance"
+	(constraint clearance (min 6mm))
+	(condition "A.NetClass == 'HV' && B.NetClass != 'HV'")
+	(severity error)
+)
+
+################################################################################

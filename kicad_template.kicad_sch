@@ -1,0 +1,17 @@
+(kicad_sch
+	(version 20231120)
+	(generator "eeschema")
+	(generator_version "8.0")
+	(uuid "b6a63573-b993-4430-97c7-4decda68f4a3")
+	(paper "A4")
+	(title_block
+		(title "Template")
+		(company "Ontario Tech Racing")
+	)
+	(lib_symbols)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+)
