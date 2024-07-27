@@ -517,10 +517,6 @@
     "netclass_patterns": [
       {
         "netclass": "HV",
-        "pattern": "/TS*"
-      },
-      {
-        "netclass": "HV",
         "pattern": "/HV*"
       }
     ]
