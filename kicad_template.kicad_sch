@@ -6,7 +6,7 @@
 	(paper "A4")
 	(title_block
 		(title "Template")
-		(company "Ontario Tech Racing")
+		(company "Daniel Jeon")
 	)
 	(lib_symbols)
 	(sheet_instances
