@@ -6,7 +6,7 @@
 # Built for KiBot running KiCad 8.
 ################################################################################
 
-name: KiBot Preflight Checks & Release
+name: KiBot Release
 
 on:
   push:
